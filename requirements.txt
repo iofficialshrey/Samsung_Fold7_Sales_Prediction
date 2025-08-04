@@ -1,0 +1,9 @@
+praw
+pandas
+textblob
+scikit-learn
+xgboost
+matplotlib
+plotly
+wordcloud
+streamlit
